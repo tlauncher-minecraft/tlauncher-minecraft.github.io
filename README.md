@@ -1,3 +1,6 @@
+<head><link rel="shortcut icon" type="image/png" 
+      href="{{ "tlauncher-icon.png"  | absolute_url }}"></head>
+
 Download the best launcher for Minecraft. Now available on PC and Android!
 
 TLauncher is a mod that has been designed to make the process of launching your Minecraft world much easier. TLauncher comes with a variety of features that will make your life in Minecraft that much easier.
